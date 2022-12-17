@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87011090d492f54d8be2c64edcca25c, type: 3}
+  m_Name: Dialogue_Scene3
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Quanto mi danno sul nervoso tutti questi animali, cos\xEC felici, mentre io,
+    il potente mago Merlino, rimango rinchiuso in questo castello."
+  - "Ma adesso gliela far\xF2 vedere io, \xE8 da molto tempo che non sperimento qualche
+    nuovo incantesimo, ho solo l\u2019imbarazzo della scelta."
+  - "Uhmm \u2026 Fammici pensare \u2026"
+  - "Mi sa che sceglier\xF2 proprio questa, la \u201Ccommiscens incantatores\u201D,
+    un potentissimo incantesimo che miscela i vari animali. Ne vedremo delle belle"
