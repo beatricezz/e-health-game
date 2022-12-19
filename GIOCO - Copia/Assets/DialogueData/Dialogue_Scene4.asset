@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87011090d492f54d8be2c64edcca25c, type: 3}
+  m_Name: Dialogue_Scene4
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Complimenti! \nHai completato tutti i livelli. "
+  - "Ti Ringraziamo, il tuo contributo \xE8 stato fondamentale per ristabilire l\u2019ordine
+    ad Animalandia."
+  - "Sei riuscito a sconfiggere Mago Merlino ed i suoi malefici incantesimi, dubito
+    si far\xE0 vivo per molto tempo."
+  - Lui ha sempre creduto di farci un torto con i suoi incantesimi, ma non sapeva
+    che ad Animalandia non sappiamo cosa sia la discriminazione.
+  - "Ogni animale \xE8 bello e peculiare modo suo, anche se presenta qualche tratto
+    non tradizionale. "
+  - E come ogni animale di Animalandia anche tu sei speciale!

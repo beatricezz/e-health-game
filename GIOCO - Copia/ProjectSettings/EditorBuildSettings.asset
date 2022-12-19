@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/S1.unity
+    guid: 28a98e58d23a6f84c9e592e22ee0679c
+  - enabled: 1
+    path: Assets/Scenes/S2.unity
+    guid: d024d4478b52c4fa49dcac9a905ca2b6
+  - enabled: 1
+    path: Assets/Scenes/S3.unity
+    guid: dc426d82389bd5a40a74c87c37d5e9ff
+  - enabled: 1
+    path: Assets/Scenes/S4.unity
+    guid: 6be4868dabf098844a5d3a29a2a6958c
+  - enabled: 1
+    path: Assets/Scenes/S5.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/S6.unity
+    guid: cc24ef13b643c5449ba4f070574ae25b
+  - enabled: 1
+    path: Assets/Scenes/S7.unity
+    guid: 9588d0f41ec71d54c83ac4231c0809a0
+  - enabled: 1
+    path: Assets/Scenes/S8.unity
+    guid: 3b4b3f7ac86e00545992d243669beec2
+  - enabled: 1
+    path: Assets/Scenes/S9.unity
+    guid: 106bdd4fd7134aa459922914c05c1f62
+  - enabled: 1
+    path: Assets/Scenes/S10.unity
+    guid: cdaac767112cc6f4a84bb738f09115d3
+  - enabled: 1
+    path: Assets/Scenes/S11.unity
+    guid: 942ee47fee5d1a147842769dedee7ad3
+  - enabled: 1
+    path: Assets/Scenes/S12.unity
+    guid: 2025839514235484aa4e00cdddf79690
+  - enabled: 1
+    path: Assets/Scenes/S13.unity
+    guid: 00006c9d976aa07478b14634d4b19f99
+  - enabled: 1
+    path: Assets/Scenes/S14.unity
+    guid: 847783d346967b94b83827c63b321c6b
+  - enabled: 1
+    path: Assets/Scenes/S15.unity
+    guid: ca9f5a0f75a170045a802cc24c4ab660
+  - enabled: 1
+    path: Assets/Scenes/S16.unity
+    guid: 5dde4ebd53d41434aba390deeeb96b42
+  - enabled: 1
+    path: Assets/Scenes/S17.unity
+    guid: 20bd25b8a1e880a42acbb7f5b7b3f5fc
+  - enabled: 1
+    path: Assets/Scenes/S18.unity
+    guid: 1415243a60a2a8444b879e4718f76e28
+  - enabled: 1
+    path: Assets/Scenes/S19.unity
+    guid: 9818cff7c0df2354599b09b20be19abb
+  - enabled: 1
+    path: Assets/Scenes/S20.unity
+    guid: 3433d3fd93aa0d045b55fd261e270639
+  - enabled: 1
+    path: Assets/Scenes/S21.unity
+    guid: 37ed95977a27edd46b57b45afff68c7a
+  m_configObjects: {}
